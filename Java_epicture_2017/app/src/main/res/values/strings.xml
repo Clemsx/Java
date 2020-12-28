@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Epicture</string>
+    <string name="imgur_account">Welcome to Epicture</string>
+    <string name="connection">Start Application</string>
+    <string name="id_client">ID Client</string>
+    <string name="imgur_icon">Imgur icon</string>
+    <string name="item_gallery">Item gallery</string>
+    <string name="search">Search</string>
+    <string name="upload_btn">Upload Button</string>
+    <string name="favorite_btn">Favorite Button</string>
+    <string name="account_btn">Account Button</string>
+</resources>

@@ -1,0 +1,4 @@
+Client/ClientInitializerTest.class
+Server/ServerInitializerTest.class
+Server/ServerHandlerTest.class
+Client/ClientHandlerTest.class
